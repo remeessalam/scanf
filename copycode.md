@@ -12,7 +12,7 @@
                 Enhancing Operations with Advanced Technology.
               </h2>
               <p className="desc">
-                Welcome to [you company name] —where technology meets innovation to
+                Welcome to SCANF —where technology meets innovation to
                 drive your success. We specialize in creating powerful digital
                 experiences and delivering solutions that simplify complex
                 challenges. With a wide range of services from mobile and web
@@ -131,7 +131,7 @@
                     Innovation at Heart
                   </h6>
                   <p className="desc mt-2">
-                    At [you company name], innovation is at the core of everything we
+                    At SCANF, innovation is at the core of everything we
                     do. We continuously embrace emerging technologies and
                     industry trends to craft future-ready solutions that
                     redefine possibilities. Our mission is to deliver solutions
@@ -163,7 +163,7 @@
                     Client-Centric Approach
                   </h6>
                   <p className="desc mt-2">
-                    At [you company name], we recognize that every business is
+                    At SCANF, we recognize that every business is
                     unique, with its own set of challenges and goals. That’s why
                     we adopt a personalized approach, customizing each project
                     to align seamlessly with your specific requirements. Whether
@@ -183,7 +183,7 @@
                     Commitment to Excellence
                   </h6>
                   <p className="desc mt-2">
-                    At [you company name], quality and reliability form the
+                    At SCANF, quality and reliability form the
                     foundation of our work. We take pride in crafting
                     world-class digital solutions that are robust, scalable, and
                     secure. Every project undergoes thorough quality assurance,
@@ -215,7 +215,7 @@
                     Innovation with Purpose
                   </h6>
                   <p className="desc mt-2">
-                    At [you company name], we believe that technology is only as
+                    At SCANF, we believe that technology is only as
                     valuable as the purpose it serves. Our mission is to harness
                     the power of technology to create meaningful
                     impacts—streamlining operations, elevating customer
@@ -236,7 +236,7 @@
                   <p className="desc mt-2">
                     We provide a comprehensive range of services, ensuring
                     end-to-end support from initial concept to deployment and
-                    beyond. At [you company name], our aim is to be your trusted
+                    beyond. At SCANF, our aim is to be your trusted
                     partner throughout your digital journey—whether it's
                     establishing your online presence, streamlining your
                     operations, or delivering engaging experiences for your

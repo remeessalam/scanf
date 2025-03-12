@@ -40,11 +40,10 @@ const Home = () => {
               Transformative Digital Solutions
             </h1>
             <p className="desc">
-              At [you company name], we craft cutting-edge AI-driven IT
-              solutions tailored to meet the evolving needs of businesses,
-              ensuring enhanced efficiency, sustainable growth, and continuous
-              innovation through intelligent automation and data-driven
-              insights.
+              At SCANF, we craft cutting-edge AI-driven IT solutions tailored to
+              meet the evolving needs of businesses, ensuring enhanced
+              efficiency, sustainable growth, and continuous innovation through
+              intelligent automation and data-driven insights.
             </p>
             <Link to="/contact-us" className="primary-btn mt-2">
               Get Started
@@ -67,13 +66,13 @@ const Home = () => {
                 Enhancing Operations with Advanced AI Technology
               </h2>
               <p className="desc">
-                Welcome to [you company name] —where technology meets innovation
-                to drive your success. We specialize in creating powerful
-                digital experiences and delivering solutions that simplify
-                complex challenges. With a wide range of services from mobile
-                and web development to AI and data intelligence, we’re here to
-                help you unlock new potential and stay ahead in today’s
-                fast-paced digital landscape.
+                Welcome to SCANF —where technology meets innovation to drive
+                your success. We specialize in creating powerful digital
+                experiences and delivering solutions that simplify complex
+                challenges. With a wide range of services from mobile and web
+                development to AI and data intelligence, we’re here to help you
+                unlock new potential and stay ahead in today’s fast-paced
+                digital landscape.
               </p>
             </div>
             <div className="flex gap-5 mt-4 justify-center lg:justify-start">
@@ -117,17 +116,16 @@ const Home = () => {
             Dependable AI-Powered IT Support Tailored for Your Business{" "}
           </h1>
           <p className="desc max-w-[50rem] mx-auto">
-            At [you company name], we understand that your website is more than
-            just an online presence—it's the cornerstone of your brand, a
-            powerful business tool, and often the first point of interaction
-            with potential customers. In today’s fast-paced world, first
-            impressions matter, and having a website that is not only
-            well-designed but also powered by advanced AI-driven features is
-            crucial for success. Our website development services go beyond the
-            basics, incorporating AI-powered optimization for performance,
-            personalized user experiences, and data-driven insights to drive
-            engagement, increase conversions, and accelerate your business
-            growth.
+            At SCANF, we understand that your website is more than just an
+            online presence—it's the cornerstone of your brand, a powerful
+            business tool, and often the first point of interaction with
+            potential customers. In today’s fast-paced world, first impressions
+            matter, and having a website that is not only well-designed but also
+            powered by advanced AI-driven features is crucial for success. Our
+            website development services go beyond the basics, incorporating
+            AI-powered optimization for performance, personalized user
+            experiences, and data-driven insights to drive engagement, increase
+            conversions, and accelerate your business growth.
           </p>
         </div>
       </section>

@@ -29,7 +29,7 @@ const Contact = () => {
     var payload = {
       to: companyDetails.email,
       // to: "remeesreme4u@gmail.com",
-      subject: "You have a new message from [you company name]",
+      subject: "You have a new message from SCANF",
       body: emailBody,
     };
 
@@ -63,10 +63,10 @@ const Contact = () => {
             <h2 className="heading-2">Get In Touch With Us!</h2>
             <p className="">
               Get in touch with
-              <span className="font-bold"> [you company name] </span> and let us
-              be the catalyst for your digital transformation. Together, we can
-              create solutions that align with your vision, helping your
-              business reach new heights.
+              <span className="font-bold"> SCANF</span> and let us be the
+              catalyst for your digital transformation. Together, we can create
+              solutions that align with your vision, helping your business reach
+              new heights.
             </p>
             <img
               src={image}

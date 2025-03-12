@@ -18,11 +18,11 @@ const ServiceItems = () => {
           Empowering the Future with AI Innovation
         </h2>
         <p data-aos="fade-up" className="desc max-w-[50rem]">
-          At [you company name], we’re dedicated to crafting transformative
-          technology solutions that leverage the power of artificial
-          intelligence. Our mission is to revolutionize industries with
-          innovative AI-driven strategies, delivering impactful and reliable
-          solutions tailored to meet the evolving needs of businesses worldwide.
+          At SCANF, we’re dedicated to crafting transformative technology
+          solutions that leverage the power of artificial intelligence. Our
+          mission is to revolutionize industries with innovative AI-driven
+          strategies, delivering impactful and reliable solutions tailored to
+          meet the evolving needs of businesses worldwide.
         </p>
 
         <div

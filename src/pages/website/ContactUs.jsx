@@ -34,7 +34,7 @@ const ContactUs = () => {
     var payload = {
       to: companyDetails.email,
       // to: "remeesreme4u@gmail.com",
-      subject: "You have a new message from [you company name]",
+      subject: "You have a new message from SCANF",
       body: emailBody,
     };
 
@@ -67,9 +67,9 @@ const ContactUs = () => {
           <div className="gradient-rounded-text-box">Contact Us</div>
           <h2 className="heading-2 mt-5">Get in Touch</h2>
           <p className="desc">
-            Let [you company name] be the catalyst for your digital
-            transformation. Together, we can build solutions that are as dynamic
-            as your vision, helping your business reach new heights.
+            Let SCANF be the catalyst for your digital transformation. Together,
+            we can build solutions that are as dynamic as your vision, helping
+            your business reach new heights.
           </p>
           <Link
             to={`tel:${companyDetails.phone}`}

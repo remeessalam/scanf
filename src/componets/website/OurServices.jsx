@@ -109,12 +109,11 @@ const OurServices = ({ length }) => {
           Cutting-Edge AI Innovation with Unmatched Reliability
         </h2>
         <p data-aos="fade-up" className="desc max-w-[50rem]">
-          At [you company name], we specialize in harnessing the power of
-          artificial intelligence to craft innovative technology solutions that
-          empower businesses to thrive. By leveraging AI-driven insights and
-          automation, we tailor our services to align with your vision, enabling
-          smarter decision-making, enhanced efficiency, and transformative
-          growth.
+          At SCANF, we specialize in harnessing the power of artificial
+          intelligence to craft innovative technology solutions that empower
+          businesses to thrive. By leveraging AI-driven insights and automation,
+          we tailor our services to align with your vision, enabling smarter
+          decision-making, enhanced efficiency, and transformative growth.
         </p>
         <div
           data-aos="fade-up"

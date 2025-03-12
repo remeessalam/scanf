@@ -79,14 +79,13 @@ const AboutUs = () => {
                   data-aos="fade-up"
                   className="text-lg text-start leading-relaxed text-gray-600"
                 >
-                  At [you company name], we specialize in crafting
-                  transformative IT solutions powered by artificial
-                  intelligence. Our expertise lies in addressing unique
-                  challenges and delivering tailored AI-driven services,
-                  ensuring that businesses worldwide thrive in a
-                  technology-first era. With a passionate team of developers,
-                  data scientists, and innovators, we are redefining the future
-                  of IT and unlocking the true potential of AI.
+                  At SCANF, we specialize in crafting transformative IT
+                  solutions powered by artificial intelligence. Our expertise
+                  lies in addressing unique challenges and delivering tailored
+                  AI-driven services, ensuring that businesses worldwide thrive
+                  in a technology-first era. With a passionate team of
+                  developers, data scientists, and innovators, we are redefining
+                  the future of IT and unlocking the true potential of AI.
                 </p>
               </div>
 
@@ -176,7 +175,7 @@ const AboutUs = () => {
               data-aos="fade-up"
               className="heading-2 font-bold text-center mb-12 text-black"
             >
-              Why Choose [you company name]?
+              Why Choose SCANF?
             </h2>
             <div className="grid gap-8 md:grid-cols-2 lg:grid-cols-3">
               {whyChooseUsContent.map((feature, index) => (
