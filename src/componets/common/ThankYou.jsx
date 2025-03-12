@@ -29,7 +29,7 @@ const Thankyou = () => {
           Home
         </Link>
       </div>
-      <div className="py-14 bg-[#2e2e45]">
+      <div className="py-14 bg-[#b4b4b4]">
         <div className="wrapper text-white">
           <div className="flex md:flex-row flex-col justify-between gap-10">
             <div className="flex flex-col items-center">

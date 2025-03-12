@@ -54,7 +54,7 @@ const LandingHeader = () => {
 
   return (
     <div
-      className={`pt-6 pb-8 fixed top-0 w-full   z-50  ${
+      className={`py-3 sm:py-6 fixed top-0 w-full z-50 bg-white/80 text-headertextcolor transition-all duration-300 ${
         isScrolled
           ? "bg-black/10 bg-opacity-60 backdrop-blur-md text-white"
           : "bg-transparent text-white"
@@ -65,11 +65,11 @@ const LandingHeader = () => {
           <Link smooth={true} to="banner" className="cursor-pointer">
             <img
               src={logoImg}
-              className="h-[2rem] md:h-[2.75rem] scale-125"
+              className="h-[2rem] md:h-[3rem] ml-5 scale-125"
               alt="logo"
             />
           </Link>
-          <div className="lg:flex items-center mt-7 gap-10 hidden">
+          <div className="lg:flex items-center  gap-10 hidden">
             {options.map((option) =>
               option.name === "Home" ? (
                 <CustomLink key={option.path} to={`/`} className="link text-sm">

@@ -312,7 +312,7 @@ export const LandingPage = ({ page }) => {
       <div
         data-aos="fade-up"
         id="contacts"
-        className=" py-[2rem] sm:py-[5rem] text-primarytextcolor bg-backgro-gradient"
+        className=" py-[2rem] sm:py-[5rem] text-primarytextcolor bg-custom-gradient"
       >
         <div className="wrapper">
           <div className="h-full grid md:grid-cols-2 gap-10 py-5">
@@ -348,7 +348,7 @@ export const LandingPage = ({ page }) => {
                   })}
                   style={{
                     borderImageSource:
-                      "linear-gradient(90deg, rgba(250,120,67,0.545) 0%, rgba(164,164,164,0.612) 100%)",
+                      "linear-gradient(90deg, rgba(26,17,136,0.9724483543417367) 0%, rgba(55,62,73,0.9780505952380952) 100%);",
                     borderImageSlice: 1,
                   }}
                 />
@@ -376,7 +376,7 @@ export const LandingPage = ({ page }) => {
                   })}
                   style={{
                     borderImageSource:
-                      "linear-gradient(90deg, rgba(250,120,67,0.545) 0%, rgba(164,164,164,0.612) 100%)",
+                      "linear-gradient(90deg, rgba(26,17,136,0.9724483543417367) 0%, rgba(55,62,73,0.9780505952380952) 100%);",
                     borderImageSlice: 1,
                   }}
                 />
@@ -404,7 +404,7 @@ export const LandingPage = ({ page }) => {
                   })}
                   style={{
                     borderImageSource:
-                      "linear-gradient(90deg, rgba(250,120,67,0.545) 0%, rgba(164,164,164,0.612) 100%)",
+                      "linear-gradient(90deg, rgba(26,17,136,0.9724483543417367) 0%, rgba(55,62,73,0.9780505952380952) 100%);",
                     borderImageSlice: 1,
                   }}
                 />
@@ -426,7 +426,7 @@ export const LandingPage = ({ page }) => {
                   {...register("message", { required: "Message is required" })}
                   style={{
                     borderImageSource:
-                      "linear-gradient(90deg, rgba(250,120,67,0.545) 0%, rgba(164,164,164,0.612) 100%)",
+                      "linear-gradient(90deg, rgba(26,17,136,0.9724483543417367) 0%, rgba(55,62,73,0.9780505952380952) 100%);",
                     borderImageSlice: 1,
                   }}
                 />

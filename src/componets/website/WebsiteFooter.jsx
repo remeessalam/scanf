@@ -27,7 +27,9 @@ const WebsiteFooter = () => {
                   {name}
                 </Link>
               ))}
-              <Link className={`link text-sm `}>Blogs</Link>
+              <Link className={`link text-sm  !text-white hover:!text-primary`}>
+                Blogs
+              </Link>
             </div>
             <div className="flex flex-col gap-2">
               <h6 className="font-medium mb-1">Contact Us</h6>
