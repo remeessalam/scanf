@@ -13,7 +13,6 @@ import endlessOpportunitiesImg1 from "./assets/images/section-8-img-1.png";
 import endlessOpportunitiesImg2 from "./assets/images/section-8-img-2.png";
 import endlessOpportunitiesImg3 from "./assets/images/section-8-img-3.png";
 import homeBannerVideo from "./assets/videos/home-banner.mp4";
-import defaultBanner from "./assets/images/banner.jpg";
 import aboutUsBanner from "./assets/images/aboutusbanner.jpg";
 import contactusbanner from "./assets/images/contactusbanner1.jpg";
 import aboutUsGridImg1 from "./assets/images/aboutus-png1.png";
@@ -103,7 +102,6 @@ export {
   endlessOpportunitiesImg2,
   endlessOpportunitiesImg3,
   homeBannerVideo,
-  defaultBanner,
   aboutUsBanner,
   aboutUsGridImg1,
   aboutUsGridImg2,

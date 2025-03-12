@@ -1,8 +1,7 @@
 import React from "react";
-import { contactusbanner, defaultBanner } from "../../constant";
+import { contactusbanner } from "../../constant";
 import ReactPlayer from "react-player";
-import servicepagebanner from "../../assets/videos/servicepagebanner.mp4";
-import servicepagebannerimage from "../../assets/images/servicesbanner.jpg";
+
 import homepagebanner from "../../assets/videos/home-banner.mp4";
 import { Link } from "react-router-dom";
 import { IoIosArrowForward } from "react-icons/io";
@@ -24,11 +23,6 @@ const Banner = ({ page, desc }) => {
           className="react-player left-0 top-0 absolute object-cover h-full w-full"
         />
       ) : (
-        // <img
-        //   src={servicepagebannerimage}
-        //   className="object-cover object-[100%_35%] h-full w-full"
-        //   alt=""
-        // />
         <img
           src={contactusbanner}
           className="object-cover object-[100%_35%] h-full w-full"
