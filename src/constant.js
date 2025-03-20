@@ -128,7 +128,7 @@ export const companyDetails = {
   phone: "+91-8073692255",
   whatsapp: "+91-8073692255",
   whatsappbox: "8073692255",
-  email: "ascanf.digitalengineering@gmail.com",
+  email: "scanf.digitalengineering@gmail.com",
   address: "India",
 };
 
