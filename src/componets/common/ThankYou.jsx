@@ -7,7 +7,7 @@ import { companyDetails, logoImg, routes } from "../../constant";
 const Thankyou = () => {
   return (
     <div className="min-h-screen flex flex-col justify-between bg-primary/20">
-      <div className="py-4 top-0 w-full bg-black/10 backdrop-blur-md z-50 text-black">
+      <div className="py-4 top-0 w-full bg-[#011e46] backdrop-blur-md z-50 text-black">
         <div className="wrapper flex justify-between items-center gap-10">
           <div className="flex justify-between items-center gap-20 w-full pl-[1rem] lg:pl-0">
             <Link to="/" className="cursor-pointer relative">
@@ -29,7 +29,7 @@ const Thankyou = () => {
           Home
         </Link>
       </div>
-      <div className="py-14 bg-[#b4b4b4]">
+      <div className="py-14 bg-gray-500">
         <div className="wrapper text-white">
           <div className="flex md:flex-row flex-col justify-between gap-10">
             <div className="flex flex-col items-center">

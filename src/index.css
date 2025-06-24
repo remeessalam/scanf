@@ -45,7 +45,7 @@ body {
     @apply font-inter font-light;
   }
   .active-link {
-    @apply !text-primary font-semibold;
+    @apply !text-white font-semibold;
   }
   .primary-btn {
     @apply text-white hover:text-primary cursor-pointer font-light border border-primary  tracking-wide bg-primary hover:bg-transparent text-sm hover:shadow-black hover:-translate-y-1  shadow-transparent rounded-[.3rem] px-4 py-3 min-w-[7rem] flex justify-center text-center transition-all duration-300;
@@ -66,7 +66,7 @@ body {
     @apply px-4 py-3 rounded-full font-raleway min-w-[10rem] flex justify-center border text-[.9rem] w-fit bg-gradient-to-r from-[#7186FF_30%] to-primary font-bold border-primary bg-clip-text text-transparent;
   }
   .link {
-    @apply cursor-pointer text-black hover:text-primary transition-colors duration-200;
+    @apply cursor-pointer text-gray-300 hover:text-primary transition-colors duration-200;
   }
 }
 

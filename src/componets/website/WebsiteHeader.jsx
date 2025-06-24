@@ -32,9 +32,9 @@ const WebsiteHeader = () => {
 
   return (
     <div
-      className={`py-3 sm:py-6 fixed top-0 w-full z-50 bg-white/80 text-headertextcolor transition-all duration-300 ${
+      className={`py-3 sm:py-6 fixed top-0 w-full z-50 bg-[#011e46] text-headertextcolor transition-all duration-300 ${
         isScrolled
-          ? "bg-black/10 bg-opacity-60 backdrop-blur-md text-white"
+          ? "bg-[#011e46] bg-opacity-80 backdrop-blur-md text-white"
           : "bg-transparent text-white"
       }`}
     >
@@ -43,11 +43,11 @@ const WebsiteHeader = () => {
           <Link to="/">
             <img
               src={logoImg}
-              className="h-[2rem] md:h-[3rem] ml-5 scale-125"
+              className="h-[2rem] md:h-[4rem] ml-5 scale-125"
               alt="logo"
             />
           </Link>
-          <div className="lg:flex mt-7 items-center gap-10 hidden">
+          <div className="lg:flex  items-center gap-10 hidden">
             {routes.map(({ name, path }) => (
               <Link
                 to={`${path}`}
