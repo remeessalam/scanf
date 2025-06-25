@@ -1,7 +1,13 @@
 import React from "react";
 import { Link } from "react-router-dom";
 // import { companyDetails, logoImg, routes } from "../constant";
-import { BsFacebook, BsLinkedin, BsTwitter, BsYoutube } from "react-icons/bs";
+import {
+  BsFacebook,
+  BsInstagram,
+  BsLinkedin,
+  BsTwitter,
+  BsYoutube,
+} from "react-icons/bs";
 import { companyDetails, logoImg, routes } from "../../constant";
 
 const Thankyou = () => {
@@ -86,6 +92,9 @@ const Thankyou = () => {
                 </Link>
                 <Link>
                   <BsYoutube className="text-xl text-gray-500 hover:text-primary transition-all duration-300" />
+                </Link>
+                <Link to={companyDetails.instagram}>
+                  <BsInstagram className="text-xl text-gray-200 hover:text-primary transition-all duration-300" />
                 </Link>
               </div>
             </div>

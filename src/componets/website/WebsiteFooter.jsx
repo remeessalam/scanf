@@ -1,5 +1,11 @@
 import React from "react";
-import { BsFacebook, BsLinkedin, BsTwitter, BsYoutube } from "react-icons/bs";
+import {
+  BsFacebook,
+  BsInstagram,
+  BsLinkedin,
+  BsTwitter,
+  BsYoutube,
+} from "react-icons/bs";
 import { companyDetails, logoImg, routes } from "../../constant";
 import { Link } from "react-router-dom";
 
@@ -74,6 +80,9 @@ const WebsiteFooter = () => {
               </Link>
               <Link>
                 <BsYoutube className="text-xl text-gray-200 hover:text-primary transition-all duration-300" />
+              </Link>
+              <Link to={companyDetails.instagram}>
+                <BsInstagram className="text-xl text-gray-200 hover:text-primary transition-all duration-300" />
               </Link>
             </div>
           </div>

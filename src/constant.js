@@ -132,6 +132,7 @@ export const companyDetails = {
   whatsapplink:
     "https://api.whatsapp.com/send/?phone=918073692255&text&type=phone_number&app_absent=0",
   address: "India",
+  instagram: "https://www.instagram.com/theinfosol?igsh=MXQzMGhxYWVvb3hzeA==",
 };
 
 // website routes
