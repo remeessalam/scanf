@@ -78,11 +78,11 @@ const WhyChooseUs = () => {
             data-aos="fade-up"
             className="desc max-w-[40rem] mx-auto"
           >
-            At SCANF, we’re dedicated to delivering AI-powered solutions that
-            are custom-fit to your business needs. Our team is passionate about
-            innovation and collaborates closely with you to understand your
-            vision, transforming it into a digital reality that not only meets
-            but exceeds expectations, driving growth and success.
+            At TheInfosol, we’re dedicated to delivering AI-powered solutions
+            that are custom-fit to your business needs. Our team is passionate
+            about innovation and collaborates closely with you to understand
+            your vision, transforming it into a digital reality that not only
+            meets but exceeds expectations, driving growth and success.
           </p>
           {/* <div
             data-aos-offset={-400}
@@ -111,7 +111,7 @@ const WhyChooseUs = () => {
                   />
                 </div>
                 <p className="desc text-primarytextcolor text-start mt-3">
-                  A reputable IT company, SCANF specializes in crafting
+                  A reputable IT company, TheInfosol specializes in crafting
                   innovative, tailored solutions that align with your business
                   goals.
                 </p>

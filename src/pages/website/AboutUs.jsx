@@ -79,7 +79,7 @@ const AboutUs = () => {
                   data-aos="fade-up"
                   className="text-lg text-start leading-relaxed text-gray-600"
                 >
-                  At SCANF, we specialize in crafting transformative IT
+                  At TheInfosol, we specialize in crafting transformative IT
                   solutions powered by artificial intelligence. Our expertise
                   lies in addressing unique challenges and delivering tailored
                   AI-driven services, ensuring that businesses worldwide thrive
@@ -175,7 +175,7 @@ const AboutUs = () => {
               data-aos="fade-up"
               className="heading-2 font-bold text-center mb-12 text-black"
             >
-              Why Choose SCANF?
+              Why Choose TheInfosol?
             </h2>
             <div className="grid gap-8 md:grid-cols-2 lg:grid-cols-3">
               {whyChooseUsContent.map((feature, index) => (

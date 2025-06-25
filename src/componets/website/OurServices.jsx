@@ -109,7 +109,7 @@ const OurServices = ({ length }) => {
           Cutting-Edge AI Innovation with Unmatched Reliability
         </h2>
         <p data-aos="fade-up" className="desc max-w-[50rem]">
-          At SCANF, we specialize in harnessing the power of artificial
+          At TheInfosol, we specialize in harnessing the power of artificial
           intelligence to craft innovative technology solutions that empower
           businesses to thrive. By leveraging AI-driven insights and automation,
           we tailor our services to align with your vision, enabling smarter

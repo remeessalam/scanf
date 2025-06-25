@@ -54,7 +54,7 @@ export const LandingPage = ({ page }) => {
     var payload = {
       to: companyDetails.email,
       // to: "remeesreme4u@gmail.com",
-      subject: "You have a new message from SCANF",
+      subject: "You have a new message from TheInfosol",
       body: emailBody,
     };
 
@@ -319,7 +319,8 @@ export const LandingPage = ({ page }) => {
             <div className="flex flex-col gap-4">
               <h2 className="heading-2">Get In Touch With Us!</h2>
               <p className="desc">
-                Get in touch with <span className="font-semibold">SCANF </span>
+                Get in touch with{" "}
+                <span className="font-semibold">TheInfosol </span>
                 and let us be the catalyst for your digital transformation.
                 Together, we can create solutions that align with your vision,
                 helping your business reach new heights.
