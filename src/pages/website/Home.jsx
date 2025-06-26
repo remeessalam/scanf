@@ -11,6 +11,7 @@ import Testimonials from "../../componets/common/Testimonials";
 import Faqs from "../../componets/common/Faqs";
 import Credibility from "../../componets/common/Credibility";
 import CommonProject from "../../componets/website/CommonProject";
+import GetInTouch from "../../componets/website/GetInTouch";
 
 const Home = () => {
   return (
@@ -96,6 +97,7 @@ const Home = () => {
           </div>
         </div>
       </section>
+      <GetInTouch />
       <OurServices length={3} />
       <section
         // data-aos-offset={-400}

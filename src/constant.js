@@ -125,13 +125,15 @@ export {
 
 // company details
 export const companyDetails = {
+  name: "TheInfosol",
   phone: "+91-8073692255",
   whatsapp: "+91-8073692255",
   whatsappbox: "8073692255",
   email: "akshaykumar@theinfosol.com",
   whatsapplink:
     "https://api.whatsapp.com/send/?phone=918073692255&text&type=phone_number&app_absent=0",
-  address: "India",
+  address:
+    "4008/33, Manjunatha nilaya gayathri nagar Rajajinagar B Block Bengaluru-560003",
   instagram: "https://www.instagram.com/theinfosol?igsh=MXQzMGhxYWVvb3hzeA==",
 };
 

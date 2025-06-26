@@ -33,18 +33,22 @@ const ContactUs = () => {
     // Construct the request payload
     var payload = {
       to: companyDetails.email,
+      name: companyDetails.name,
       // to: "remeesreme4u@gmail.com",
       subject: "You have a new message from TheInfosol",
       body: emailBody,
     };
 
-    await fetch("https://smtp-api-tawny.vercel.app/send-email", {
-      method: "POST",
-      headers: {
-        "Content-Type": "application/json",
-      },
-      body: JSON.stringify(payload),
-    })
+    await fetch(
+      "https://send-mail-redirect-boostmysites.vercel.app/send-email",
+      {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify(payload),
+      }
+    )
       .then((response) => response.json())
       .then(() => {
         toast.success("Email sent successfully");
