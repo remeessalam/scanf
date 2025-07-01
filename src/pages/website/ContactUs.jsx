@@ -5,7 +5,13 @@ import { FaPhone } from "react-icons/fa";
 import { companyDetails } from "../../constant";
 import { IoMail } from "react-icons/io5";
 import { FaLocationDot } from "react-icons/fa6";
-import { BsFacebook, BsLinkedin, BsTwitter, BsYoutube } from "react-icons/bs";
+import {
+  BsFacebook,
+  BsInstagram,
+  BsLinkedin,
+  BsTwitter,
+  BsYoutube,
+} from "react-icons/bs";
 import { useForm } from "react-hook-form";
 import toast from "react-hot-toast";
 const MapComponent = lazy(() => import("../../componets/website/MapComponent"));
@@ -231,6 +237,12 @@ const ContactUs = () => {
             </Link>
             <Link className="group w-[2.5rem] h-[2.5rem] rounded-full border-primary border flex justify-center items-center">
               <BsYoutube className="text-xl text-primarytextcolor group-hover:text-primary transition-all duration-300" />
+            </Link>
+            <Link
+              to={companyDetails.instagram}
+              className="group w-[2.5rem] h-[2.5rem] rounded-full border-primary border flex justify-center items-center"
+            >
+              <BsInstagram className="text-xl text-primarytextcolor group-hover:text-primary transition-all duration-300" />
             </Link>
           </div>
         </div>
